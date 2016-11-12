@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+	I learn new Tag that never used before the <sub>
+  * What has been easy?
+	yes only because I done basic pages before
+  * What has been difficult?
+	remembering some tags
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+	research 
+
+---
+
+Your response goes here!
+
+1.I learn new Tag that never used before the <sub>
+2.yes only because I done basic pages before
+3.remembering some tags
+4.research 
+Contact GitHub API Training Shop Blog About
